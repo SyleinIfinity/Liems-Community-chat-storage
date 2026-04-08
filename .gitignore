@@ -1,0 +1,3 @@
+# Keep temp upload cache out of git history
+temp/uploads/*
+!temp/uploads/.gitkeep
